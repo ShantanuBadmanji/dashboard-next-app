@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "shatanu@1234",
+      "contactInfo": {
+        "name": "Shantanu",
+        "role": "Backend Developer",
+        "imgURL": "/cru-logo.svg",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442",
+        "about": ""
+      },
+      "connections": [],
+      "certifications": [],
+      "experience": [],
+      "education": [],
+      "skills": []
+    },
+    {
+      "userName": "shatanu@1234",
+      "contactInfo": {
+        "name": "Shantanu",
+        "role": "Backend Developer",
+        "imgURL": "/cru-logo.svg",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442"
+      },
+      "connections": []
+    },
+    {
+      "userName": "shatanu@1234",
+      "contactInfo": {
+        "name": "Shantanu",
+        "role": "Backend Developer",
+        "imgURL": "/cru-logo.svg",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442"
+      },
+      "connections": []
+    },
+    {
+      "userName": "shatanu@1234",
+      "contactInfo": {
+        "name": "Shantanu",
+        "role": "Backend Developer",
+        "imgURL": "/cru-logo.svg",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442"
+      },
+      "connections": []
+    },
+    {
+      "userName": "shatanu@1234",
+      "contactInfo": {
+        "name": "Shantanu",
+        "role": "Backend Developer",
+        "imgURL": "/cru-logo.svg",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442"
+      },
+      "connections": []
+    },
+    {
+      "userName": "shatanu@1234",
+      "contactInfo": {
+        "name": "Shantanu",
+        "role": "Backend Developer",
+        "imgURL": "/cru-logo.svg",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442"
+      },
+      "connections": []
+    }
+  ]
+}

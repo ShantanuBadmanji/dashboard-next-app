@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
@@ -24,4 +24,42 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+} */
+/* Frame 1321314477 */
+.common-btn {
+  box-sizing: content-box;
+  border-radius: 64.5872px;
+  left: calc(50% - 98px / 2 - 1px);
+  top: calc(50% - 14px / 2);
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.connection-btn {
+  background: #bab6eb;
+  color: rgba(31, 31, 31, 0.8);
+}
+
+.profile-btn {
+  background: rgba(240, 239, 250, 1);
+  color: rgba(31, 31, 31, 0.8);
+}
+.profile-section {
+  box-sizing: border-box;
+
+  border: 0.888889px solid rgba(0, 0, 0, 0.15);
+  /* filter: drop-shadow(0px 1.77778px 1.77778px rgba(0, 0, 0, 0.1)); */
+  border-radius: 4.44444px;
+  font-size: 0.75rem /* 12px */;
+  line-height: 1rem /* 16px */;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 500;
 }
